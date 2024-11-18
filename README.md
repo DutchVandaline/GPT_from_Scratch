@@ -63,7 +63,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- 이미지 삽입 ![Pequod](https://github.com/user-attachments/assets/8bf45ee3-1001-459a-8db2-f32632e20dfc)-->
-Artificial Intelligence is in development. It is updating due to the progess. Please chech the github tech blog I've uploaded on the bottom.
+GPT from Scratch is in development. It is updating due to the progess. Please chech the github tech blog I've uploaded on the bottom. <br>
+Full data is about 40,000. It's too much so I just added about 30 datum for example <br>
+I was able to make GPT much more faster if my PyTorch was not 2.0.0. PyTorch 2.0.0 sucks. It explodes with `nan`.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,9 +78,8 @@ Artificial Intelligence is in development. It is updating due to the progess. Pl
 </a>
 
 ## Key Features
-📍 You can locate the map of coffee shops.<br/>
-🪴 You can get points for our shop when you use reusable bottle!<br/>
-🍾 Artificial Intelligence verifies your photo and check.<br/>
+📍 This is based on `Attention is all you need` and `OpenAI GPT2` papers.<br/>
+🪴 `MaskedMultiheadSelfAttention` was built with `torch.MultiheadAttention`.<br/>
 
 <!--
 <img src="https://github.com/user-attachments/assets/7f15a1f3-65ca-4ae7-912a-4b3ccd8533bd"  width="270" height="270"/>
@@ -116,7 +118,7 @@ If you are using mac, you need to set up XCode and Simulator.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DutchVandaline/Artificial_Intelligence.git
+   git clone https://github.com/DutchVandaline/GPT_from_Scratch.git
    ```
 2. Excecute on PyCharm
 
