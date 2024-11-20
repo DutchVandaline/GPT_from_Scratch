@@ -1,4 +1,4 @@
-# hiabGPT
+# GPT_from_Scratch
 
 <a id="readme-top"></a>
 <div align="center">
@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">hiabGPT</h3>
+  <h3 align="center">GPT_from_Scratch</h3>
 
   <p align="center">
     <a href=""> 
