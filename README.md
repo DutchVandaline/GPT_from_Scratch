@@ -1,4 +1,4 @@
-# GPT_from_Scratch
+# hiabGPT
 
 <a id="readme-top"></a>
 <div align="center">
@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">GPT from Scratch</h3>
+  <h3 align="center">hiabGPT</h3>
 
   <p align="center">
     <a href=""> 
@@ -63,7 +63,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- 이미지 삽입 ![Pequod](https://github.com/user-attachments/assets/8bf45ee3-1001-459a-8db2-f32632e20dfc)-->
-GPT from Scratch is in development. It is updating due to the progess. Please chech the github tech blog I've uploaded on the bottom. <br>
+*hiabGPT*, which stands for "Help, I Accidentally Built GPT" was my personal project to make GPT2 from Scratch. I've used Pytorch and really accidentally built GPT. 
+Please chech the github tech blog I've uploaded on the bottom. <br>
 Full data is about 40,000. It's too much so I just added about 30 datum for example <br>
 I was able to make GPT much more faster if my PyTorch was not 2.0.0. PyTorch 2.0.0 sucks. It explodes with `nan`.
 
